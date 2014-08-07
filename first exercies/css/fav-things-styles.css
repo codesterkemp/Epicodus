@@ -1,0 +1,15 @@
+h1{
+	color: green;
+	font-style: italic, bold;
+	font-family: cursive;
+	text-align: center;
+	font-weight: 500;
+
+}
+h2{
+	color: red;
+	font-style: italic;
+	font-family: sans-serif;
+	text-align: center;
+	line-height: 50px;
+}
